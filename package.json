@@ -1,0 +1,15 @@
+{
+  "name": "pino-bfuscate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:devthejo/pino-bfuscate.git",
+  "author": "devthejo <jo@surikat.pro>",
+  "license": "MIT",
+  "dependencies": {
+    "on-exit-leak-free": "^2.1.0",
+    "pino-abstract-transport": "^1.0.0",
+    "pino-pretty": "^8.1.0",
+    "pump": "^3.0.0",
+    "sonic-boom": "^3.2.0"
+  }
+}
